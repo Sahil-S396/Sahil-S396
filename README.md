@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Untitled design.gif" width="100%"/>
+  <img src="intro.gif" width="100%"/>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-kumar-sahoo-4055b7368/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilsahoo396@gmail.com)
